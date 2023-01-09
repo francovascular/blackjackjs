@@ -2,7 +2,7 @@
 
 PASOS
 1.CLONAR REPOSITORIO
-2.EJECUTAR
+2.EJECUTAR todo de una vez
 
 ## Project setup
 ```
