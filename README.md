@@ -1,5 +1,9 @@
 # 08-pokemon-game
 
+PASOS
+1.CLONAR REPOSITORIO
+2.EJECUTAR
+
 ## Project setup
 ```
 npm install
